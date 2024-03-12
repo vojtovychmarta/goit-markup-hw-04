@@ -233,14 +233,16 @@ margin-bottom: 8px;}
     font-family: "Roboto", sans-serif;
     background-color: #FFFFFF;
     text-align: center;
-    color: #2e2f42;}
+    color: #2e2f42;
+    box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);}
 .main-portfolio-title{ margin-bottom: 72px;}
 .main-portfolio-list {display: flex;
 flex-wrap: wrap;
 column-gap: 24px;
 row-gap: 48px;}
 .main-portfolio-pic {width: calc((100% - 72px) / 4);
-    border-radius: 0 0 4px 4px;}
+    border-radius: 0 0 4px 4px;
+    transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);}
 .container-team {padding: 32px 0;}
 .main-portfolio-pic {width: calc((100% - 48px) / 3);}
 .container-portfolio {padding: 32px 16px;
