@@ -98,6 +98,19 @@ gap: 40px;}
     text-align: center;
     color: #fff;
     max-width: 496px;}
+
+.main-menu-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #8e8f99;
+    border-radius: 4px;
+    width: 264px;
+    height: 112px;
+    background: #f4f4fd;
+}
+
+
 .visually-hidden {position: absolute;
     width: 1px;
     height: 1px;
