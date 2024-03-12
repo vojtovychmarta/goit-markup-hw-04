@@ -66,14 +66,18 @@ gap: 40px;}
 
 
 .section-main {background-color: #2e2f42;
-padding: 188px 0;}
+    padding: 188px 0;
+    background-image: url(../images/backgroundimage.jpeg);
+    background-repeat: no-repeat;
+    background-position: ;
+}
 
 .section-main-title {font-weight: 700;
     font-size: 56px;
     line-height: 1.07143;
-    background-color: #2e2f42;
     line-height: 1.07;
     letter-spacing: 0.02em;
+    margin: 0 auto;
     text-align: center;
     color: #fff;
     max-width: 496px;}
