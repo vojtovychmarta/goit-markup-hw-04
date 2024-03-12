@@ -35,10 +35,10 @@ align-items: center;}
 .header-logo-blue {color: #2e2f42;}
 .header-menu-list {display: flex;
 gap: 40px;}
-.header-menu-link {padding: 24px 0;}
-.header-menu-item {padding: 24px 0;
+.header-menu-link {padding: 24px 0;
     position: relative;
     color: #404bbf;}
+.header-menu-item {padding: 24px 0;}
 .studio::after {
     content: '';
     width: 100%;
