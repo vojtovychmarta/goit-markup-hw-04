@@ -287,17 +287,24 @@ border-top: none;}
 
 .footer {background: #2e2f42;}
 .footer {padding: 100px 0;}
-.container-footer {
+.footer {
     display: flex;
     align-items: baseline;
 }
-.container {margin-right: 120px;}
+.container {margin-right: 120px;
+    margin-left: 156px;
+    }
 .social-title {font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #FFFFFF;
     margin-bottom: 16px;
+}
+.social-container {
+    width: 208px;
+    height: 80px;
+    margin-right: 692px;
 }
 .team-item-link{
     width: 100%;
