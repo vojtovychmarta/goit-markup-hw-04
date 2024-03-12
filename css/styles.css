@@ -190,6 +190,18 @@ gap: 24px;}
     justify-content: center;
     gap: 24px;
 }
+.team-item-link {
+    width: 100%;
+    height: 100%;
+    background-color: #4d5ae5;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.team-item-link:hover {background-color: #404bbf;}
+.team-item-link:focus {background-color: #404bbf;}
+.social-icon {fill: #f4f4fd;}
 .main-name {font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
