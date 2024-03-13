@@ -316,7 +316,16 @@ border-top: none;}
 }
 .container {margin-right: 120px;
     margin-left: 156px;
+    display: flex;
+    align-items: baseline;
     }
+.container-logo{
+    margin-right: 120px;
+}
+.social-icon {
+    width: 40px;
+    height: 40px;
+}
 .social-title {font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
