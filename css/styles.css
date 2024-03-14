@@ -276,7 +276,7 @@ border-top: none;}
     position: relative;
     overflow: hidden;
 }
-.main-portfolio-pic:hover.overlay, .main-portfolio-pic:focus.overlay {
+.portfolio-pic-container:hover.overlay, .portfolio-pic-container:focus.overlay {
     transform: translateY(0%);
 
 }
