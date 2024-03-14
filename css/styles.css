@@ -285,14 +285,13 @@ border-top: none;}
     color: #434455;
     transform: translateY(0%);}
 .main-portfolio-text {text-align:left;}
-.main-portfolio-text:hover {transform: translateY(0%);}
 .portfolio-pic-container {
     position: relative;
     overflow: hidden;
 }
-.main-portfolio-pic:hover.overlay, .main-portfolio-pic:focus.overlay {
+.main-portfolio-pic:hover .overlay,
+.main-portfolio-pic:focus .overlay {
     transform: translateY(0%);
-
 }
 .overlay{
         position: absolute;
