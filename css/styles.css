@@ -290,17 +290,10 @@ border-top: none;}
     position: relative;
     overflow: hidden;
 }
-portfolio-pic-container:hover.overlay, .portfolio-pic-container:focus.overlay {
+.main-portfolio-pic:hover.overlay, .main-portfolio-pic:focus.overlay {
     transform: translateY(0%);
 
 }
-.portfolio-pic-container:hover {
-    transform: translateY(0%);
-}
-.portfolio-pic-container{
-    transform: translateY(0%);
-}
-    
 .overlay{
         position: absolute;
         top: 0;
