@@ -401,6 +401,12 @@ border-top: none;}
     color: #4d5ae5}
 .footer-logo {display: inline-block;
 margin-bottom: 16px;}
+.team-item-logo:hover {
+    background-color: #31d0aa;
+}
+.team-item-logo:focus {
+    background-color: #31d0aa;
+}
 .footer-logo-blue {color: #f4f4fd;}
 .footer-text {font-weight: 400;
     font-size: 16px;
