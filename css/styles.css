@@ -213,7 +213,7 @@ gap: 24px;}
     align-items: center;
     justify-content: center;
 }
-.team-item-link:hover, .team-item-link:focus {background-color: #404bbf;}
+.team-item-link:hover,.team-item-link:focus {background-color: #404bbf;}
 .social-icon {fill: #f4f4fd;}
 .social-icon {
     padding-top: 12px;
